@@ -2,8 +2,7 @@
 
 <h1 align="center">
 	<a href="https://luomengguo.top/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=你好呀;这里是梦想高地的
-                  主页!&center=true&size=27">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=你好呀;这里是梦想高地的主页!&center=true&size=27">
 	</a>
 </h1>
 
