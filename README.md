@@ -83,7 +83,8 @@
 
 <!-- 最新博文插入位置 -->
 <!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+ - 💯 2022年10月06日 [butterfly装载日记](https://diyade.github.io/posts/c446.html)
+ - 🔥 2022年10月05日 [python学习日记](https://diyade.github.io/posts/3c23.html)
+ - 💫 2022年10月03日 [专本套读的哪些事儿](https://diyade.github.io/posts/f736.html)<!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://luomengguo.top/">➡️ 前往Blog查看更多</a></p>
