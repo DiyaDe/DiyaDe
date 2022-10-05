@@ -26,6 +26,7 @@ jobs:
     # date_format 选填 修改模版中日期格式 默认英文 
     # committer_username和committer_email 选填 提交信息
     # filter_dates 选填 daysAgo/10/代表只获取近10天博文 ， currentMonth只获取当月博文， currentYear只获取当年博文
+    # 具体参数看第4行文档
     - uses: gautamkrishnar/blog-post-workflow@master
       with:
         feed_list: "https://luomengguo.top/atom.xml"
