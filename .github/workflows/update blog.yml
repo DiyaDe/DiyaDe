@@ -1,0 +1,45 @@
+# 获取博客最新文章
+# 参考：https://github.com/CCKNBC/CCKNBC
+# Actions1：https://github.com/marketplace/actions/delete-workflow-runs
+# Actions2：https://github.com/marketplace/actions/blog-post-workflow
+name: update blog
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Shanghai
+
+    steps:
+    - uses: actions/checkout@v3
+
+    # feed_list 必填 rss地址
+    # max_post_count 必填 获取文章数
+    # reade_path 选填 默认写入READ.me
+    # template 选填 生成模版 emojikey随机表情 默认为[$title]($url)
+    # date_format 选填 修改模版中日期格式 默认英文 
+    # committer_username和committer_email 选填 提交信息
+    # filter_dates 选填 daysAgo/10/代表只获取近10天博文 ， currentMonth只获取当月博文， currentYear只获取当年博文
+    - uses: gautamkrishnar/blog-post-workflow@master
+      with:
+        feed_list: "https://luomengguo.top/atom.xml"
+        max_post_count: 5
+        readme_path: "./README.md"
+        template: "$newline - $emojiKey(💯,🔥,💫,🚀,🌮,💫) $date [$title]($url)"
+        date_format: "yyyy年mm月dd日"
+        committer_username: "github-actions[bot]"
+        committer_email: "github-actions[bot]@users.noreply.github.com"
+        filter_dates: "currentYear"
+        
+    # 删除近retain_days天的日志，可以不要
+    # - name: Delete Workflow Runs
+    #   uses: Mattraks/delete-workflow-runs@main
+    #   with:
+    #     retain_days: 10
+    #     keep_minimum_runs: 1
