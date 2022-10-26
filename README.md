@@ -82,10 +82,10 @@
 
 <!-- 最新博文插入位置 -->
 <!-- BLOG-POST-LIST:START -->
- - 💯 2022年10月21日 [学习通（懂得都懂）](https://diyade.github.io/posts/f781.html)
- - 🔥 2022年10月08日 [精美壁纸网站](https://diyade.github.io/posts/5f82.html)
- - 💫 2022年10月07日 [ug建模基础学习日记](https://diyade.github.io/posts/6aa0.html)
- - 🚀 2022年10月07日 [数控编程基础学习日记](https://diyade.github.io/posts/de76.html)
- - 🌮 2022年10月07日 [传感器基础知识学习日记](https://diyade.github.io/posts/e3ae.html)<!-- BLOG-POST-LIST:END -->
+ - 💯 2022年10月26日 [nonebot2.0.0beta版机器人搭建](https://luomengguo.top/posts/b285.html)
+ - 🔥 2022年10月21日 [学习通（懂得都懂）](https://luomengguo.top/posts/f781.html)
+ - 💫 2022年10月08日 [精美壁纸网站](https://luomengguo.top/posts/5f82.html)
+ - 🚀 2022年10月07日 [ug建模基础学习日记](https://luomengguo.top/posts/6aa0.html)
+ - 🌮 2022年10月07日 [数控编程基础学习日记](https://luomengguo.top/posts/de76.html)<!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://luomengguo.top/">➡️ 前往Blog查看更多</a></p>
