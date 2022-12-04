@@ -82,10 +82,10 @@
 
 <!-- 最新博文插入位置 -->
 <!-- BLOG-POST-LIST:START -->
- - 💯 2022年12月01日 [纪念江泽民同志](https://luomengguo.top/posts/6058.html)
- - 🔥 2022年11月29日 [网盘不限速方案](https://luomengguo.top/posts/de76.html)
- - 💫 2022年11月24日 [PLC扫描周期重点](https://luomengguo.top/posts/f785.html)
- - 🚀 2022年11月14日 [外挂标签](https://luomengguo.top/posts/87c5.html)
- - 🌮 2022年11月13日 [人工智能深度学习初级段位](https://luomengguo.top/posts/b483.html)<!-- BLOG-POST-LIST:END -->
+ - 💯 2022年12月04日 [切片range函数用法](https://luomengguo.top/posts/3797.html)
+ - 🔥 2022年12月01日 [纪念江泽民同志](https://luomengguo.top/posts/6058.html)
+ - 💫 2022年11月29日 [网盘不限速方案](https://luomengguo.top/posts/de76.html)
+ - 🚀 2022年11月24日 [PLC扫描周期重点](https://luomengguo.top/posts/f785.html)
+ - 🌮 2022年11月14日 [外挂标签](https://luomengguo.top/posts/87c5.html)<!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://luomengguo.top/">➡️ 前往Blog查看更多</a></p>
