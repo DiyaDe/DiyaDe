@@ -82,10 +82,10 @@
 
 <!-- 最新博文插入位置 -->
 <!-- BLOG-POST-LIST:START -->
- - 💯 2022年12月16日 [安知鱼关于页面的bug修复记录](https://luomengguo.top/posts/18a9.html)
- - 🔥 2022年12月07日 [比赛的收获](https://luomengguo.top/posts/1953.html)
- - 💫 2022年12月06日 [电脑使用小技巧](https://luomengguo.top/posts/6cd4.html)
- - 🚀 2022年12月04日 [我的图床方案](https://luomengguo.top/posts/1bd5.html)
- - 🌮 2022年12月04日 [切片range函数用法](https://luomengguo.top/posts/3797.html)<!-- BLOG-POST-LIST:END -->
+ - 💯 2022年12月18日 [伪病毒](https://luomengguo.top/posts/912e.html)
+ - 🔥 2022年12月16日 [安知鱼关于页面的bug修复记录](https://luomengguo.top/posts/18a9.html)
+ - 💫 2022年12月07日 [比赛的收获](https://luomengguo.top/posts/1953.html)
+ - 🚀 2022年12月06日 [电脑使用小技巧](https://luomengguo.top/posts/6cd4.html)
+ - 🌮 2022年12月04日 [我的图床方案](https://luomengguo.top/posts/1bd5.html)<!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://luomengguo.top/">➡️ 前往Blog查看更多</a></p>
