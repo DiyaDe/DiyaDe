@@ -82,10 +82,6 @@
 
 <!-- 最新博文插入位置 -->
 <!-- BLOG-POST-LIST:START -->
- - 💯 2022年12月21日 [RobotStudio延长试用期限记录](https://luomengguo.top/posts/fea.html)
- - 🔥 2022年12月18日 [伪病毒](https://luomengguo.top/posts/912e.html)
- - 💫 2022年12月16日 [安知鱼关于页面的bug修复记录](https://luomengguo.top/posts/18a9.html)
- - 🚀 2022年12月07日 [比赛的收获](https://luomengguo.top/posts/1953.html)
- - 🌮 2022年12月06日 [电脑使用小技巧](https://luomengguo.top/posts/6cd4.html)<!-- BLOG-POST-LIST:END -->
+ - 💯 2023年01月01日 [2022年度总结](https://luomengguo.top/posts/4c6a.html)<!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://luomengguo.top/">➡️ 前往Blog查看更多</a></p>
