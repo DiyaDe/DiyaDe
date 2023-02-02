@@ -82,6 +82,7 @@
 
 <!-- 最新博文插入位置 -->
 <!-- BLOG-POST-LIST:START -->
- - 💯 2023年01月01日 [2022年度总结](https://luomengguo.top/posts/4c6a.html)<!-- BLOG-POST-LIST:END -->
+ - 💯 2023年01月31日 [Visual Studio 2022打包方案集合](https://luomengguo.top/posts/b6cc.html)
+ - 🔥 2023年01月01日 [2022年度总结](https://luomengguo.top/posts/4c6a.html)<!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://luomengguo.top/">➡️ 前往Blog查看更多</a></p>
