@@ -82,8 +82,10 @@
 
 <!-- 最新博文插入位置 -->
 <!-- BLOG-POST-LIST:START -->
- - 💯 2023年02月22日 [国内开通 Chat GPT Plus 保姆教程](https://luomengguo.top/posts/d384.html)
- - 🔥 2023年01月31日 [Visual Studio 2022打包方案集合](https://luomengguo.top/posts/b6cc.html)
- - 💫 2023年01月01日 [2022年度总结](https://luomengguo.top/posts/4c6a.html)<!-- BLOG-POST-LIST:END -->
+ - 💯 2023年05月30日 [ESP32在vcode下的开发环境搭建](https://luomengguo.top/posts/ac75.html)
+ - 🔥 2023年04月21日 [2023年第十七届“挑战杯”四川省大学生课外学术科技作品竞赛任务安排](https://luomengguo.top/posts/b6ca.html)
+ - 💫 2023年02月22日 [国内开通 Chat GPT Plus 保姆教程](https://luomengguo.top/posts/d384.html)
+ - 🚀 2023年01月31日 [C语言打包方案集合](https://luomengguo.top/posts/b6cc.html)
+ - 🌮 2023年01月01日 [2022年度总结](https://luomengguo.top/posts/4c6a.html)<!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://luomengguo.top/">➡️ 前往Blog查看更多</a></p>
