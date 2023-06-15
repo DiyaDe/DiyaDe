@@ -82,10 +82,10 @@
 
 <!-- 最新博文插入位置 -->
 <!-- BLOG-POST-LIST:START -->
- - 💯 2023年06月10日 [页脚添加公益广告](https://luomengguo.top/posts/e4a3.html)
- - 🔥 2023年06月08日 [CF优选IP](https://luomengguo.top/posts/a600.html)
- - 💫 2023年06月01日 [安知鱼主题标签 Tag Plugins](https://luomengguo.top/posts/d50a.html)
- - 🚀 2023年05月29日 [ESP32在vcode下的开发环境搭建](https://luomengguo.top/posts/ac75.html)
- - 🌮 2023年04月20日 [2023年第十七届“挑战杯”四川省大学生课外学术科技作品竞赛任务安排](https://luomengguo.top/posts/b6ca.html)<!-- BLOG-POST-LIST:END -->
+ - 💯 2023年06月14日 [宝塔面板申请ssl证书报错Invalid version. The only valid version for X509Req is 0](https://luomengguo.top/posts/412d.html)
+ - 🔥 2023年06月14日 [Hexo部署到阿里云/腾讯服务器](https://luomengguo.top/posts/4e55.html)
+ - 💫 2023年06月10日 [页脚添加公益广告](https://luomengguo.top/posts/e4a3.html)
+ - 🚀 2023年06月08日 [CF优选IP](https://luomengguo.top/posts/a600.html)
+ - 🌮 2023年06月01日 [安知鱼主题标签 Tag Plugins](https://luomengguo.top/posts/d50a.html)<!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://luomengguo.top/">➡️ 前往Blog查看更多</a></p>
