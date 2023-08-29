@@ -82,10 +82,10 @@
 
 <!-- 最新博文插入位置 -->
 <!-- BLOG-POST-LIST:START -->
- - 💯 2023年08月27日 [解决GitHub上传或连接ssh: connect to host github.com port 22: Connection timed out](https://luomengguo.top/posts/dfdd.html)
- - 🔥 2023年08月21日 [米哈游旗下游戏抢码登陆](https://luomengguo.top/posts/f2b4.html)
- - 💫 2023年07月02日 [OneTool助手搭建教程](https://luomengguo.top/posts/d47f.html)
- - 🚀 2023年06月15日 [宝塔面板申请ssl证书报错Invalid version. The only valid version for X509Req is 0](https://luomengguo.top/posts/412d.html)
- - 🌮 2023年06月14日 [Hexo部署到阿里云/腾讯服务器](https://luomengguo.top/posts/4e55.html)<!-- BLOG-POST-LIST:END -->
+ - 💯 2023年08月28日 [Python代码打包exe](https://luomengguo.top/posts/ede1.html)
+ - 🔥 2023年08月27日 [解决GitHub上传或连接ssh: connect to host github.com port 22: Connection timed out](https://luomengguo.top/posts/dfdd.html)
+ - 💫 2023年08月21日 [米哈游旗下游戏抢码登陆](https://luomengguo.top/posts/f2b4.html)
+ - 🚀 2023年07月02日 [OneTool助手搭建教程](https://luomengguo.top/posts/d47f.html)
+ - 🌮 2023年06月15日 [宝塔面板申请ssl证书报错Invalid version. The only valid version for X509Req is 0](https://luomengguo.top/posts/412d.html)<!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://luomengguo.top/">➡️ 前往Blog查看更多</a></p>
